@@ -5,9 +5,9 @@ def second_challenge
     {
       #your key/value pairs here!
       
-        :patriarch => {}
-        :matriarch => {}
-        :hero => {}
+        :patriarch => {},
+        :matriarch => {},
+        :hero => {},
         :hero_friends => []
     },
     
@@ -15,9 +15,9 @@ def second_challenge
     {
       
       #your key/value pairs here!
-        :patriarch => {}
-        :matriarch => {}
-        :heroine => {}
+        :patriarch => {},
+        :matriarch => {},
+        :heroine => {},
         :heroine_friends => []
     }
     
